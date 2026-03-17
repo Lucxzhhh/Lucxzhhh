@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Lucas Henrique
+##  Lucas Henrique
 Me chamo Lucas Henrique Rodrigues Caldas, tenho 16 anos sou natural de Marília inteirior de São Paulo, estou cursando o ensino médio com curso tecnico Desenvolvimento de sistema na Etec, e aluno do Devmenthors. Gosto muito de tecnologia e viver novas Experiências.
 
 ### 🤖 Linguagens e Tecnologias (aprendendo)
