@@ -42,3 +42,7 @@ Me chamo Lucas Henrique Rodrigues Caldas, tenho 16 anos sou natural de Marília 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+## Redes sociais
+
+ <a href="[https://instagram.com/rafaballerini](https://www.instagram.com/lucxzhhh/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
