@@ -52,6 +52,15 @@ Me chamo Lucas Henrique Rodrigues Caldas, tenho 16 anos sou natural de Marília 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+/>
+
 
 <br clear="both">
 
