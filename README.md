@@ -64,7 +64,7 @@ Me chamo Lucas Henrique Rodrigues Caldas, tenho 16 anos sou natural de Marília 
 
 <br clear="both">
 
-### 🌐 Redes sociais
+### 🌐 Meios de Contatos
 
 <div> 
   <a href="https://www.instagram.com/lucxzhhh/" target="_blank">
