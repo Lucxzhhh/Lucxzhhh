@@ -65,11 +65,6 @@ Me chamo Lucas Henrique Rodrigues Caldas, tenho 16 anos sou natural de Marília 
 
 <br clear="both">
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lucxzhhh&show_icons=true&count_private=true&hide_border=true&title_color=9B59B6&icon_color=C39BD3&text_color=c9d1d9&bg_color=0d1117" alt="Lucas GitHub Stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucxzhhh&layout=compact&hide_border=true&title_color=9B59B6&text_color=C39BD3&bg_color=0d1117" alt="Top Languages" />
-</div>
-
 
 ### 🌐 Meios de Contatos
 
@@ -85,3 +80,7 @@ Me chamo Lucas Henrique Rodrigues Caldas, tenho 16 anos sou natural de Marília 
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lucxzhhh&show_icons=true&count_private=true&hide_border=true&title_color=9B59B6&icon_color=C39BD3&text_color=c9d1d9&bg_color=0d1117" alt="Lucas GitHub Stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucxzhhh&layout=compact&hide_border=true&title_color=9B59B6&text_color=C39BD3&bg_color=0d1117" alt="Top Languages" />
+</div>
