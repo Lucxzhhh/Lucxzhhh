@@ -1,11 +1,6 @@
 ##  Lucas Henrique
 Me chamo Lucas Henrique Rodrigues Caldas, tenho 16 anos sou natural de Marília inteirior de São Paulo, estou cursando o ensino médio com curso tecnico Desenvolvimento de sistema na Etec, e aluno do Devmenthors. Gosto muito de tecnologia e viver novas Experiências.
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leticiabsilva03&show_icons=true&count_private=true&hide_border=true&title_color=9B59B6&icon_color=C39BD3&text_color=c9d1d9&bg_color=0d1117" alt="Letícia github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiabsilva03&layout=compact&hide_border=true&title_color=9B59B6&text_color=C39BD3&bg_color=0d1117" />
-</div>
-
 
 ### 🤖 Linguagens e Tecnologias (aprendendo)
 <img 
